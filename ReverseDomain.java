@@ -1,6 +1,3 @@
-// The application reads domain names from standard input
-// and returns the reverse domain names in sorted order
-
 import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.List;
